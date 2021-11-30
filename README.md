@@ -2,6 +2,6 @@
 
 <b> A simple Password Generator </b> 
 
-<span>Enter lenght</span> <br>
+<span>&#8228;<span> Enter lenght <br>
 <span>&#10003;</span> Password Generated!
 
