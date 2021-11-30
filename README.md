@@ -2,7 +2,7 @@
 
 <b> A simple Password Generator </b> 
 
-<ul> 
-    <ol> <span>Enter lenght</span> </ol>
-    <ol> <span>&#10003;</span> Password Generated! </ol>
-<ul>
+<ol> 
+    <li> <span>Enter lenght</span> </li>
+    <li> <span>&#10003;</span> Password Generated! </li>
+<ol>
