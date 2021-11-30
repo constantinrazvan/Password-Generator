@@ -4,5 +4,6 @@
 
 <ol> 
     <li> <span>Enter lenght</span> </li>
+</ol>
     <li> <span>&#10003;</span> Password Generated! </li>
-<ol>
+
