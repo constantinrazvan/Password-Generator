@@ -3,6 +3,6 @@
 <b> A simple Password Generator </b> 
 
 <ul> 
-    <span>Enter lenght</span>
-    <span>&#10003;</span> Password Generated!
+    <ol> <span>Enter lenght</span> </ol>
+    <ol> <span>&#10003;</span> Password Generated! </ol>
 <ul>
